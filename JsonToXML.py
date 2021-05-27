@@ -15,7 +15,7 @@ import threading
 
 myConnectionString = """server=127.0.0.1;
             uid=root;
-            pwd=myeZqie1;
+            pwd=******;
             database=studiocgbis;
             connection timeout=600"""
  
